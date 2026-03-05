@@ -1,6 +1,6 @@
 # LTspice Diode I–V Sweep
 
-Name: Your Name
+Name: Clovis Mbashu
 
 ## Sweep Settings
 Source: V1  
